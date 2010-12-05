@@ -8,3 +8,5 @@ Makefile
 profile
 
 build/*
+*.pbxuser
+*.mode2v3
